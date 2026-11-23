@@ -1,0 +1,9 @@
+{
+  "songs": [
+    {
+      "title": "Nombre de la canción",
+      "artist": "Artista",
+      "url": "https://tu-dominio.com/audio/cancion.mp3"
+    }
+  ]
+}

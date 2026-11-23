@@ -1,0 +1,8 @@
+{
+  "versionCode": 9,
+  "versionName": "1.3.1",
+  "mandatory": false,
+  "maxDeferrals": 2,
+  "details": "Describe aquí las mejoras, correcciones y cambios de esta versión.",
+  "apkUrl": "https://github.com/OWNER/REPO/releases/download/v1.3.1/MULTIJUEGOS-VPN-1.3.1.apk"
+}
