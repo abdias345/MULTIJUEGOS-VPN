@@ -1,9 +1,9 @@
 {
   "songs": [
     {
-      "title": "Nombre de la canción",
-      "artist": "Artista",
-      "url": "https://tu-dominio.com/audio/cancion.mp3"
+      "title": "Música de café 2026",
+      "artist": "Varios artistas",
+      "url": "https://raw.githubusercontent.com/abdias345/MULTIJUEGOS-VPN/main/musica_cafe.m4a"
     }
   ]
 }
